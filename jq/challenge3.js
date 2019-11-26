@@ -14,7 +14,7 @@ $(document).ready(function(){
             event.preventDefault();
         }
         if (standing.is(":checked")){
-            console.log("checked fruit");
+            console.log("checked standing");
             input = true;
         }
         else{
